@@ -101,7 +101,6 @@ main {
     transform: scale(1.05);
 }
 
-/* Estilo do rodapé */
 footer {
     background-color: rgba(6, 82, 23, 0.623);
     color: #fff;
@@ -115,7 +114,6 @@ footer p {
     font-size: 0.9rem;
 }
 
-/* Acessibilidade */
 .room:focus {
     outline: 2px solid #2196F3;
 }
