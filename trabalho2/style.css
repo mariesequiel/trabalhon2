@@ -83,17 +83,17 @@ main {
 }
 
 .room[data-status="livre"] p {
-    background-color: rgba(76, 175, 79, 0.541); /* Fundo semitransparente */
+    background-color: rgba(76, 175, 79, 0.541); 
     color: #025506;
 }
 
 .room[data-status="ocupado"] p {
-    background-color: rgba(255, 153, 0, 0.5); /* Fundo semitransparente */
+    background-color: rgba(255, 153, 0, 0.5); 
     color: #8f5d02;
 }
 
 .room[data-status="manutencao"] p {
-    background-color: rgba(204, 52, 41, 0.623); /* Fundo semitransparente */
+    background-color: rgba(204, 52, 41, 0.623); 
     color: #d60000;
 }
 
